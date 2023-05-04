@@ -1,0 +1,107 @@
+
+
+
+
+
+
+XiaDun
+
+
+Wanyao10
+Wanyao20
+
+
+
+
+
+
+HeadTurn185
+HeadTurn180
+HeadTurn015
+HeadTurn020
+HeadTurnMM
+HeadTurn060
+HeadTurn140
+
+Stand
+
+Forwalk05		向前走十步
+
+Forwalk02		向前走一步六厘米  两步停
+
+forwardSlow0403	前进左脚一步  一步停
+
+Forwalk01		前进一点点三厘米  两步
+Forwalk00		往前挪动一点点一厘米  一步
+
+
+Right3move
+Left3move
+
+Right02move	右侧移一点点二厘米
+Left02move	左侧移一点点二厘米
+
+Right1move	右侧移一点点一厘米
+Left1move	左侧移一点点一厘米
+
+
+turn000L		turn001L
+turn000R		turn001R
+
+turn001L		向左转一点点一度 实际2度左右04271
+turn001R		向右转一点点一度 实际2度左右04271
+
+turn003L
+turn003R
+
+turn004L
+turn004R
+
+turn005L
+turn005R
+
+turn010R
+turn010L
+
+UpBridge		上台阶floor
+DownBridge	下台阶floor
+
+LfootShot		左脚射门
+
+lieForward	趴地前爬
+
+RollRail		翻越横杆
+
+acrossGap	跨越沟壑
+
+Back2Run
+Back1Run		后退
+Back0Run
+
+
+
+Forwalk02R 	前进两步迈右脚
+
+Forwalk02L  	前进两步迈左脚
+
+Forwalk02RS  	前进两步迈右脚变站立
+
+Forwalk02LS  	前进两步迈左脚变站立
+
+Forwalk02RL
+
+Forwalk02LR
+
+
+fastForward03   快速前进  4
+fastForward04
+fastForward05   快速前进  6
+fastForward06
+fastForward07   快速前进  8
+
+
+GHfastFor06	光滑快速前进  6
+
+
+待准备动作：
+sudo service livestream.sh stop
