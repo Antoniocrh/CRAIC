@@ -41,7 +41,3 @@
 修改编辑文件 `kickBallOnly.py`，在如下位置修改取色工具获取到的颜色值
 
 ![](./img/20210512101210.png)
-
-- **代码更新**
-  - 更新指令 `scp -r ./robot_demo lemon@lemon.local:/home/lemon/catkin_ws/src/`
-  - 详细操作见视频  branch:with_video  https://www.lejuhub.com/doming_test/aelos_race/-/tree/with_video/img
